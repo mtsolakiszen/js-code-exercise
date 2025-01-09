@@ -2,7 +2,7 @@
 
 * The task is to create a basic chat messenger system between two browser tabs/windows on the same device.
 
-* The messages which are sent between the two windows should be rendered on the page, and the messages should identify who sent the message by stating "You:" or "Them:" at the begining.
+* The messages which are sent between the two windows should be rendered on the page, and the messages should identify who sent the message by stating "**You:**" or "**Them:**" at the begining.
 No further identifiable information is required.
 
 * Open the following URL in two browser windows to see the expected result: https://mtsolakiszen.github.io/p1/index.html
